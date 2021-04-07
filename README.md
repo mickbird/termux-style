@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/github/issues/mickbird/termux-style?color=violet&style=for-the-badge">
 </p>
 
-[<img align="left" alt="mickbird" | Twitter" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/1.png" />][bmac]
-[<img align="left" alt="mickbird" | Reddit" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/2.png" />][ko-fi]
-[<img align="left" alt="mickbird" | Github" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/3.png" />][paypal]
-[<img align="left" alt="mickbird" | Instagram" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/4.png" />][patreon]
+[<img align="left" alt="mickbird | Twitter" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/1.png" />][bmac]
+[<img align="left" alt="mickbird | Reddit" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/2.png" />][ko-fi]
+[<img align="left" alt="mickbird | Github" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/3.png" />][paypal]
+[<img align="left" alt="mickbird | Instagram" width="48px" src="https://raw.githubusercontent.com/mickbird/files/master/other/4.png" />][patreon]
 
 <br />
 <br />
